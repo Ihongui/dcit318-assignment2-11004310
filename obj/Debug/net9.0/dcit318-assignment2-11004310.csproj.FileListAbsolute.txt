@@ -1,0 +1,15 @@
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\bin\Debug\net9.0\dcit318-assignment2-11004310.exe
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\bin\Debug\net9.0\dcit318-assignment2-11004310.deps.json
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\bin\Debug\net9.0\dcit318-assignment2-11004310.runtimeconfig.json
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\bin\Debug\net9.0\dcit318-assignment2-11004310.dll
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\bin\Debug\net9.0\dcit318-assignment2-11004310.pdb
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\dcit318-assignment2-11004310.GeneratedMSBuildEditorConfig.editorconfig
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\dcit318-assignment2-11004310.AssemblyInfoInputs.cache
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\dcit318-assignment2-11004310.AssemblyInfo.cs
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\dcit318-assignment2-11004310.csproj.CoreCompileInputs.cache
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\dcit318-assignment2-11004310.sourcelink.json
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\dcit318-assignment2-11004310.dll
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\refint\dcit318-assignment2-11004310.dll
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\dcit318-assignment2-11004310.pdb
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\dcit318-assignment2-11004310.genruntimeconfig.cache
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment2-11004310\obj\Debug\net9.0\ref\dcit318-assignment2-11004310.dll
