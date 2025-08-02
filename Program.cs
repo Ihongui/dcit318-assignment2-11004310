@@ -17,6 +17,16 @@ class Program
         Console.WriteLine("---This is a cat Sound---");
         cat.MakeSound();
         Console.WriteLine("---======================---");
+        Console.WriteLine("---======================---");
+        Console.WriteLine("---======================---");
+        Console.WriteLine("\n=== Abstract Classes ===");
+        Shape circle = new Circle(5.0);
+        Shape rectangle = new Rectangle(4.0, 6.0);
+
+        Console.WriteLine($"Circle Area: {circle.GetArea():F2}");
+        Console.WriteLine("---======================---");
+        Console.WriteLine("---======================---");
+        Console.WriteLine($"Rectangle Area: {rectangle.GetArea():F2}");
 
     }
 }
