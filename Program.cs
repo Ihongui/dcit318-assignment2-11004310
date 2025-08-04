@@ -20,6 +20,7 @@ class Program
         Console.WriteLine("---======================---");
         Console.WriteLine("---======================---");
         Console.WriteLine("\n=== Abstract Classes ===");
+        Console.WriteLine("---======================---");
         Shape circle = new Circle(5.0);
         Shape rectangle = new Rectangle(4.0, 6.0);
 
@@ -27,6 +28,19 @@ class Program
         Console.WriteLine("---======================---");
         Console.WriteLine("---======================---");
         Console.WriteLine($"Rectangle Area: {rectangle.GetArea():F2}");
+        Console.WriteLine("---======================---");
+        Console.WriteLine("---======================---");
+        Console.WriteLine("\n=== Example of the implementation Interfaces ===");
+        Console.WriteLine("---======================---");
+        Console.WriteLine("---======================---");
+        IMovable car = new Car();
+        IMovable bicycle = new Bicycle();
+
+        car.Move();
+        bicycle.Move();
+
+
+
 
     }
 }
